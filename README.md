@@ -1,2 +1,2 @@
 # Informatica1
-## primeira tarefa; Apresentação Pessoal: Software: Canva
+## Primeira Tarefa: Apresentação Pessoal: Software: Canva
